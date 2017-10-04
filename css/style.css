@@ -60,6 +60,16 @@ main {
     background-color:darksalmon;
 }
 
+main article{
+    background-color:indianred;
+    margin-bottom:10px;
+}
+
+main article p{
+    background-color:blanchedalmond;
+    padding-left:15px;
+}
+
 /*** Page Footer formatting ***/
 #pageFooter {
     /*border: 1px solid black;*/
