@@ -12,7 +12,7 @@ body{
 
 /*** Page Header formatting ***/
 #pageHeader{
-    border:1px solid black;
+    /*border:1px solid black;*/
     background-color: coral;
     position:relative;
     padding:15px;
@@ -32,16 +32,10 @@ body{
     right: 60px;
     width:40px;
 }
-/*
-#myCanvas {
-    border: 1px solid black;
-}
-*/
 
 /*** Horizontal Navigation formatting ***/
-
 #horNav {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     background-color:burlywood;
     padding: 15px;
     position: relative;
@@ -60,12 +54,17 @@ body{
     right: 10px;
 }
 
+/*** Main section formatting ***/
+main {
+    padding: 15px;
+    background-color:darksalmon;
+}
 
 /*** Page Footer formatting ***/
 #pageFooter {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     background-color: coral;
     padding: 15px;
-    margin-top: 5px;
+    /*margin-top: 5px;*/
     text-align: center;
 }
