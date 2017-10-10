@@ -17,6 +17,9 @@ body{
     position:relative;
     padding:15px;
     /*margin-bottom:5px;*/
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 #ptFlag{
